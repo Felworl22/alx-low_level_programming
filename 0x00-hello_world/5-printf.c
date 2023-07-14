@@ -1,10 +1,12 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * main - printing a line of code with the put function
- * Return: 0(success)
- */
+* main - Entry point
+*
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
+printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
 }
+
